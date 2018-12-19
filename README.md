@@ -1,2 +1,2 @@
 # ReactNativeCodePush
-testing code push
+A very basic react native app to test codepush
